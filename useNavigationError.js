@@ -1,0 +1,1 @@
+This error occurs when using the `useNavigation` hook in React Navigation, but the component using it is not within a valid navigation container.  This often happens when the component is rendered outside the scope of a navigator (e.g., `NavigationContainer` or a screen defined within a navigator).
